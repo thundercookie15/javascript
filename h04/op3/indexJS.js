@@ -21,7 +21,7 @@ neus.addEventListener("click", function () {
 
 ogen.addEventListener("click", function () {
     ogen.style.backgroundImage = "url('images/ogen" + ogenPicker() + ".jpg')"
-})
+});
 
 function kinPicker() {
     if (tellerkin >= aantal.length) {
