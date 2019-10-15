@@ -2,6 +2,13 @@
     box-sizing: border-box;
 }
 
+body {
+    width:80%;
+    margin: auto;
+    font-family: Arial, sans-serif;
+    background-color: deepskyblue;
+}
+
 img {
     width:15%;
 }
@@ -43,13 +50,6 @@ div.spelers, div#beurt {
     position: relative;
     left: 19%;
     top: 150px;
-}
-
-body {
-    width:80%;
-    margin: auto;
-    font-family: Arial, sans-serif;
-    background-color: deepskyblue;
 }
 
 div#beurt {
